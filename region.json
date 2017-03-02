@@ -42,10 +42,10 @@
     ],
     "pluginOrder": [
         "regional-planning",
+		"community_planning",
 		"flood_slr",
 		"risk_explorer",
 		"future_habitat",
-		"community_planning",
 		"habitat_explorer",
         "zoom_to",
         "measure",
