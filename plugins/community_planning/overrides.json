@@ -1,8 +1,12 @@
 {
+<<<<<<< HEAD
     "height": 600,
     "width": 400,
     "resizable": false,
     "hasCustomPrint": true,
     "infoGraphic" : "plugins/community_planning/CommunityPlanning_c.jpg",
+=======
+	"infoGraphic" : "plugins/community_planning/CommunityPlanning_c.jpg",
+>>>>>>> origin/development
     "name": "Community Planning"
 }
