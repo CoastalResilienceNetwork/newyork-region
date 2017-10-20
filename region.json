@@ -37,24 +37,15 @@
         { "name": "Terrain"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
     "pluginOrder": [
-<<<<<<< HEAD
-    "regional-planning",
-=======
 		"regional-planning",
 		"community_planning",
->>>>>>> origin/development
 		"flood_slr",
 		"future_habitat",
-<<<<<<< HEAD
-		"community_planning"
-=======
-		"habitat_explorer",
         "zoom_to",
         "measure",
         "legend_display",
         "full_extent",
         "subregion_toggle"
->>>>>>> origin/development
     ],
     "print": {
        "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",

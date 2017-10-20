@@ -1,15 +1,11 @@
 [
     {
-<<<<<<< HEAD
         "displayName": "Suffolk County South Shore",
-=======
         "displayName": "New York",
->>>>>>> origin/development
         "server": {
             "type": "ags",
             "layerType": "dynamic",
             "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/New_York",
-<<<<<<< HEAD
             "name": "Suffolk County South Shore"
         },
         "includeLayers": [
@@ -33,15 +29,4 @@
             }
         ]
     }
-=======
-            "name": "New_York"
-        },
-        "includeLayers": [
-			{
-				"name" : "Suffolk County South Shore",
-				"includeAllLayers" : true
-			}
-		]
-	}
->>>>>>> origin/development
 ]
