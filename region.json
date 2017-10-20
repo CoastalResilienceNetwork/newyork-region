@@ -3,7 +3,7 @@
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
     "titleMain": { "text": "Coastal Resilience", "url": "http://maps.coastalresilience.org/newyork" },
     "titleDetail": { "text": "New York", "url": "http://coastalresilience.org/new-york" },
-  "headerLinks": [
+    "headerLinks": [
         { "text": "The Nature Conservancy", "url": "http://nature.org/marine/" },
         { "text": "Legal Disclosure", "url": "http://coastalresilience.org/terms-of-use/" }
     ],
@@ -54,12 +54,11 @@
     },
     "colors": {
         "primary": "#2F6384",
-  "secondary": "#5E94B6",
-  "tertiary": "#333333",
-  "active": "#0096D6"
+  		"secondary": "#5E94B6",
+  		"tertiary": "#333333",
+  		"active": "#0096D6"
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
-    "identifyEnabled": true,
     "launchpad": {
             "title": "New York",
             "description": "<p> Coastal Resilience is a web-mapping platform that provides planners and natural resource managers access to data on coastal hazards, socioeconomics, and ecological resources and tools to help guide decisions on reducing risk to communities and conserving and restoring coastal habitats. For additional project information, visit the <a href= 'http://coastalresilience.org/project/new-york/' target='_blank'><b>New York</b></a> home page.</b></p>",
@@ -81,29 +80,6 @@
                     "link": "http://nature.org",
                     "title": "The Nature Conservancy"
                 }
-        ]
-    }
+        	]
+    	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
