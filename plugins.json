@@ -5,7 +5,6 @@
 		"name": "flood_slr"
     },
     {
-<<<<<<< HEAD
       "repo": "future_habitat",
       "name": "future_habitat"
     },
@@ -16,26 +15,6 @@
     {
       "repo": "regional-planning",
       "name": "community_planning"
-=======
-		"repo": "explorer",
-		"name": "habitat_explorer"
-    },
-    {
-		"repo": "explorer",
-		"name": "risk_explorer"
-    },
-    {
-		"repo": "future_habitat",
-		"name": "future_habitat"
-    },
-	{
-		"repo": "regional-planning",
-		"name": "regional-planning"
-	},
-	{
-		"repo": "regional-planning",
-		"name": "community_planning"
->>>>>>> origin/development
     }
   ]
 }
