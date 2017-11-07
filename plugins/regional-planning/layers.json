@@ -70,11 +70,10 @@
         "includeLayers": [
             {
                 "server": {
-                    "name": "571fa4aee4b071321fe56c9e"
+                "name": "571fa4aee4b071321fe56c9e"
                 },
-                "name": "Depth to water ",
-                "displayName": "Depth to water",
-                "includeAllLayers" : true
+                "name": "Estimated depth to water below land surface, in feet",
+                "displayName": "Estimated depth to water below land surface"
             }
         ]
     }
