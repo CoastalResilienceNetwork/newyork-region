@@ -41,5 +41,41 @@
 				"includeAllLayers" : true
 			}
 		]
-	}
+	},
+	{
+        "displayName": "Hurricane Sandy",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "http://services.femadata.com/arcgis/rest/services/2012_Sandy/"
+        },
+        "includeLayers": [
+            {
+                "server": {
+                    "name": "SurgeBoundaries_Final_0214"
+                },
+                "name": "FINAL - High Resolution Storm Surge Extent",
+                "displayName": "Final FEMA Surge Area-Feb 2013",
+                "includeAllLayers" : true
+            }
+        ]
+    },
+    {
+        "displayName": "USGS Depth to Groundwater",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "https://www.sciencebase.gov/arcgis/rest/services/Catalog"
+        },
+        "includeLayers": [
+            {
+                "server": {
+                    "name": "571fa4aee4b071321fe56c9e"
+                },
+                "name": "Depth to water ",
+                "displayName": "Depth to water",
+                "includeAllLayers" : true
+            }
+        ]
+    }
 ]
