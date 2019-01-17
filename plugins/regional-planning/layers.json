@@ -4,7 +4,7 @@
         "server": {
             "type": "ags",
             "layerType": "dynamic",
-            "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/New_York",
+            "url": "https://services2.coastalresilience.org/arcgis/rest/services/New_York",
             "name": "New_York"
         },
         "includeLayers": [
@@ -47,7 +47,7 @@
         "server": {
             "type": "ags",
             "layerType": "dynamic",
-            "url": "http://services.femadata.com/arcgis/rest/services/2012_Sandy/"
+            "url": "https://services.femadata.com/arcgis/rest/services/2012_Sandy/"
         },
         "includeLayers": [
             {
